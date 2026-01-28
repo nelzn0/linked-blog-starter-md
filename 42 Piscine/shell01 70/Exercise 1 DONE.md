@@ -11,11 +11,11 @@ environment variable FT_USER) belongs to.
 
 ◦ for FT_USER=bocal:
 
-![[42 Piscine/shell01/Pasted image 20260127115149.png]]
+![[Pasted image 20260127115149.png]]
 
 ◦ for FT_USER=daemon:
 
-![[42 Piscine/shell01/Pasted image 20260127115215.png]]
+![[Pasted image 20260127115215.png]]
 
 man id
 

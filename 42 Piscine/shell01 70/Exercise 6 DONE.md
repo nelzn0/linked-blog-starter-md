@@ -7,7 +7,7 @@ starting from the first line.
 
 • Example output:
 
-![[42 Piscine/shell01/Pasted image 20260127115809.png]]
+![[Pasted image 20260127115809.png]]
 
 `ls -l | awk 'NR%2==1'`
 

@@ -9,7 +9,7 @@ directory and all subdirectories. a
 
 • Example output:
 
-![[42 Piscine/shell01/Pasted image 20260127115314.png]]
+![[Pasted image 20260127115314.png]]
 
 `find . -name "*.sh"`
 

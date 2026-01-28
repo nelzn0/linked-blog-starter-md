@@ -22,7 +22,7 @@ following modifications:
 
 • Example Output (for lines 7 to 15):
 
-![[42 Piscine/shell01/Pasted image 20260127120008.png]]
+![[Pasted image 20260127120008.png]]
 
 • Follow the steps in the exact order given!
 

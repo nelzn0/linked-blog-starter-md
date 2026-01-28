@@ -6,10 +6,10 @@ Allowed functions: None
 
 • The file name must be:
 
-![[42 Piscine/shell01/Pasted image 20260127115636.png]]
+![[Pasted image 20260127115636.png]]
 
 • Example output:
 
-![[42 Piscine/shell01/Pasted image 20260127115654.png]]
+![[Pasted image 20260127115654.png]]
 
 

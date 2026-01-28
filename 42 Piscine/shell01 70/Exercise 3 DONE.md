@@ -9,7 +9,7 @@ and directories in the current directory and all its subdirectories. a
 
 • Example output:
 
-![[42 Piscine/shell01/Pasted image 20260127115418.png]]
+![[Pasted image 20260127115418.png]]
 
 `ls -1 | wc -l'
 

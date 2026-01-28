@@ -11,18 +11,18 @@ base.
 
 • Example 1:
 
-![[42 Piscine/shell01/Pasted image 20260127120114.png]]
+![[Pasted image 20260127120114.png]]
 
 • The result is:
 
-![[42 Piscine/shell01/Pasted image 20260127120203.png]]
+![[Pasted image 20260127120203.png]]
 
 • Example 2:
 
-![[42 Piscine/shell01/Pasted image 20260127120212.png]]
+![[Pasted image 20260127120212.png]]
 
 • The result is :
 
-![[42 Piscine/shell01/Pasted image 20260127120222.png]]
+![[Pasted image 20260127120222.png]]
 
 
