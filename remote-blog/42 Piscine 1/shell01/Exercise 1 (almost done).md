@@ -5,7 +5,7 @@ Allowed functions: None
 Write a command line that displays the list of groups the user (defined in the
 environment variable FT_USER) belongs to.
 
-• The output should be comma-separated, without spaces.
+• The output should be comma-separated, without spaces. yaa 
 
 • Examples: a 
 
