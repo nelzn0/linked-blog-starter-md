@@ -10,3 +10,24 @@ Allowed functions: None
 
 • This function divides the value pointed to by ‘a’ by the value pointed to by ‘b’. The result of the division is stored in the integer pointed to by ‘a’, while the remainder is stored in the integer pointed to by ‘b’.
 
+## resolution
+
+`//#include <stdio.h>`
+
+`void    ft_ultimate_div_mod(int *a, int *b)`
+`{`
+        `int     tempa;`
+        `int     tempb;`
+
+        `tempa = (*a / *b);`
+        `tempb = (*a % *b);`
+        `*a = tempa;`
+        `*b = tempb;`
+`}`
+`//int   main(void)`
+`//{`
+`//      int a = 4;`
+`//      int b = 7;`
+`//      ft_ultimate_div_mod(&a, &b);`
+`//      printf("The division is: %d \n", a);`
+
