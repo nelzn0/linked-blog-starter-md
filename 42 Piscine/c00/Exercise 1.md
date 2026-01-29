@@ -46,3 +46,5 @@ counter letter (letter + 1)
 `}`
 
 just call function
+
+cc -Wall -Wextra -Werror 

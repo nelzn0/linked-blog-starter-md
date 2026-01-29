@@ -10,4 +10,34 @@ Allowed functions: None
 
 `void ft_ft(int *nbr);`
 
+//#include <stdio.h>
+
+`void	ft_ft(int *nbr)`
+`{`
+	`*nbr = 42;`
+`}`
+
+`//int	main(void)`
+`//{`
+`//	int n = 5;`
+`//	printf("number before: %d \n", n);`
+`//`
+`//	ft_ft(&n);`
+`//`	
+`//	printf("number after: %d \n", n);`
+`//	return (0);`
+`//}`
+
+
+`*(value)` = points to the address of a value
+
+on main, just added a var n (number)
+
+added a printf, from library stdio.h
+
+printing the number of choice (i chose 5)
+
+afterwards, ran the function ft_ft on the var n
+
+printed again the same number, which after the function, will switch from 5 to 42
 
