@@ -17,6 +17,10 @@ Allowed functions: None
 	`*nbr = 42;`
 `}`
 
+## to test it
+
+cc -Wall -Wextra -Werror
+
 `//int	main(void)`
 `//{`
 `//	int n = 5;`
@@ -31,13 +35,19 @@ Allowed functions: None
 
 `*(value)` = points to the address of a value
 
-on main, just added a var n (number)
+on main, just added a `var n` (number)
 
-added a printf, from library stdio.h
+added a `printf`, from library `stdio.h`
+
+`%d` = so it can print a int argument, as a placeholder
+
+if u use `%s`, it would be to print a string, on
 
 printing the number of choice (i chose 5)
 
-afterwards, ran the function ft_ft on the var n
+afterwards, ran the function `ft_ft` on the var `n`
 
 printed again the same number, which after the function, will switch from 5 to 42
+
+
 
