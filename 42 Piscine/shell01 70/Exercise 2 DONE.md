@@ -26,7 +26,7 @@ exec = executes a command
 
 -exec = makes it possible to execute in find
 
-basename = only show the filename
+basename = remove an extension from a file
 
 {} = path of the file
 
