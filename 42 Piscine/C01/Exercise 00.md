@@ -10,7 +10,7 @@ Allowed functions: None
 
 `void ft_ft(int *nbr);`
 
-//#include <stdio.h>
+`//#include <stdio.h>`
 
 `void	ft_ft(int *nbr)`
 `{`
