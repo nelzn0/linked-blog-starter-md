@@ -14,13 +14,14 @@ Allowed functions: None
 
 ## resolution
 
-`//#include <stdio.h>`
+```
+//#include <stdio.h>
 
-`void    ft_rev_int_tab(int *tab, int size)`
-`{`
-        `int     temp;`
-        `int     i;`
-        `int     end;`
+void    ft_rev_int_tab(int *tab, int size)
+{
+        int     temp;
+        int     i;
+        int     end;
 
         `i = 0;`
         `end = size - 1;`
@@ -32,19 +33,20 @@ Allowed functions: None
                 `i++;`
                 `end--;`
         `}`
-`}`
-`//int   main(void)`
-`//{`
-`//      int tab[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};`
-`//      ft_rev_int_tab(tab, 9);`
-`//      int i = 0;`
-`//      while(i < 9)`
-`//      {`       
-`//      printf(" %d ", tab[i]);`
-`//      i++;`
-`//      }`
-`//      return (0);`
-`//}`
+}
+//int   main(void)
+//{
+//      int tab[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+//      ft_rev_int_tab(tab, 9);
+//      int i = 0;
+//      while(i < 9)
+//      {       
+//      printf(" %d ", tab[i]);
+//      i++;
+//      }
+//      return (0);
+//}
+```
 
 tab var
 
@@ -62,7 +64,7 @@ usually not 1, but 0)
 
 and then a loop
 
-while the index is lower than the division of 2 of the size
+while the index is lower than half the size of the tab
 
 I place the first position of the table on the temporary
 
