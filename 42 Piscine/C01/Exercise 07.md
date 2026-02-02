@@ -64,7 +64,7 @@ usually not 1, but 0)
 
 and then a loop
 
-while the index is lower than half the size of the tab
+while the index is lower than half the size of the tab (only the first 4 and last 4 need swapping, i dont need to swap the middle)
 
 I place the first position of the table on the temporary
 

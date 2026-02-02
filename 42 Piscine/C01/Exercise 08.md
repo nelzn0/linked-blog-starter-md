@@ -17,7 +17,7 @@ Allowed functions: None
 ```
 //#include <stdio.h>
 
-void    ft_sort_int_tab(int tab, int size)
+void    ft_sort_int_tab(int *tab, int size)
 {
         int     temp;
         int     i;
@@ -44,16 +44,19 @@ void    ft_sort_int_tab(int tab, int size)
                 }
         }
 }
-/int   main(void)
+int   main(void)
 {
-        int tab = {9, 8, 7, 6, 5, 4, 3, 2, 1};
+        int tab[] = {9, 8, 7, 6, 5, 4, 3, 2, 1};
       ft_sort_int_tab(tab, 9);
       int i = 0;
       while(i < 9)
       {       
-      printf(" %d ", tabi);
+      printf(" %d ", tab[i]);
       i++;
       }
       return (0);
-}/
+}
 ```
+
+end var is useless
+
