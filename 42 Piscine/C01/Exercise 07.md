@@ -23,16 +23,16 @@ void    ft_rev_int_tab(int *tab, int size)
         int     i;
         int     end;
 
-        `i = 0;`
-        `end = size - 1;`
-        `while (i < size / 2)`
-        `{`
-                `temp = tab[i];`
-                `tab[i] = tab[end];`
-                `tab[end] = temp;`
-                `i++;`
-                `end--;`
-        `}`
+        i = 0;
+        end = size - 1;
+        while (i < size / 2)`
+        {
+                temp = tab[i];
+                tab[i] = tab[end];
+                tab[end] = temp;
+                i++;
+                end--;
+        }
 }
 //int   main(void)
 //{
