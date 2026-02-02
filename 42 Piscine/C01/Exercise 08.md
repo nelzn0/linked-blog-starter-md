@@ -58,7 +58,7 @@ int   main(void)
 }
 ```
 
-end var is useless now, i've included it oops
+end var is useless now, i've included it oopsss
 
 added sorted var, 0 means its not sorted, 1 means it sorted
 
